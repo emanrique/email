@@ -1,0 +1,27 @@
+{
+  "name": "php-css-inline",
+  "version": "1.0.0",
+  "description": "Gulp task for email work with css and html",
+  "main": "email.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juanpablocs/email.git"
+  },
+  "author": "@juanpablocs, @emanrique",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanpablocs/email/issues"
+  },
+  "homepage": "https://github.com/juanpablocs/email",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "juice": "^1.4.2",
+    "through2": "^2.0.0"
+  }
+}
